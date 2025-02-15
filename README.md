@@ -1,5 +1,5 @@
 # RGB-Landsat-8
-No Google Earth Engine.
+O código deve ser executado Google Earth Engine.
 
 O Google Earth Engine também chamado de GEE é uma plataforma de análise geoespacial com o processamento na nuvem, isso quer dizer que os scripts serão executados no servido do Google.
 
